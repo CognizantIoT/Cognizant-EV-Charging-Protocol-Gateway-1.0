@@ -1,5 +1,5 @@
 # Cognizant-EV-Charging-Protocol-Gateway-1.0
-
+![alt text](https://github.com/CognizantIoT/Cognizant-EV-Charging-Protocol-Gateway-1.0/blob/main/Gateway.png)
 # Current process: 
 The Open Charge Point Protocol (OCPP) is an open standard application protocol for communication between Electric vehicle chargers (EVSE) and OCPP Central System. The standard elaborates several standard operations to enable standardized communication between EVSE & Central System.
 Central system receives OCPP commands from EV Charger. It then communicates with the Back End System for getting response of OCPP commands. Back end system is responsible for processing OCPP commands, Charge Management, EV User Management, Booking Management, Payments etc. Central System then sends back the response to EV Charger.
